@@ -9,5 +9,5 @@ export function ButtonText({ title, isActived = false, ...rest}){
     >
       {title}
     </Container>
-  );
+  )
 }

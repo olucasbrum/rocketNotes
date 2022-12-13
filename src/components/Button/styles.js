@@ -11,8 +11,7 @@ export const Container = styled.button`
   margin-top: 16px;
   border-radius: 10px;
   font-weight: 500;
-
-  // quando o button estiver desabilitado....
+ 
   &:disabled {
     opacity: 0.5;
   }

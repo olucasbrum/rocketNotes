@@ -40,6 +40,5 @@ export function New(){
       </Form>
     </main>
     </Container>
-  );
-
+  )
 }

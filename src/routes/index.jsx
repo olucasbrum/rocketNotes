@@ -8,5 +8,5 @@ export function Routes(){
     <BrowserRouter>
       <AuthRoutes />
     </BrowserRouter>
-  );
+  )
 }

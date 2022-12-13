@@ -20,5 +20,5 @@ export function Header(){
         <RiShutDownLine />
       </Logout>
     </Container>
-  );
+  )
 }

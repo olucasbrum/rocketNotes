@@ -15,5 +15,5 @@ export function Note({ data, ...rest }){
         </footer>
       }
     </Container>
-  );
+  )
 }

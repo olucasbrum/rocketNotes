@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-// ThemeProvider = como o nome já diz prover um tema 
 import { ThemeProvider } from 'styled-components';
 
 import GlobalStyles from './styles/global';

@@ -44,5 +44,5 @@ export function Home(){
         Criar nota
       </NewNote>      
     </Container>
-  );
+  )
 }
