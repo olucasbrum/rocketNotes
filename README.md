@@ -1,6 +1,6 @@
 # Rocket Notes
 
-Aplicação desenvolvida durante o stage09 da @rocketseat.
+Aplicação desenvolvida durante o stage09 do programa explorer da @rocketseat.
 
 ## Tech Stack
 
